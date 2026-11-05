@@ -1,0 +1,1 @@
+var e={CLIENT:`Покупатели`,SELLER:`Продавцы`,ADMIN:`Администраторы`};export{e as t};

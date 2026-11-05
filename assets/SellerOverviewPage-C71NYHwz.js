@@ -1,0 +1,1 @@
+import{at as e,f as t}from"./index-DSlRMf4a.js";import{t as n}from"./PageHead-QxgllxrP.js";import{t as r}from"./StaffOverview-BeTtXRbX.js";var i=e();function a(){return t(`Обзор`),(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(n,{title:`Обзор`}),(0,i.jsx)(r,{base:`/seller`})]})}export{a as default};

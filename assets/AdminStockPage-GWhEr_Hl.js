@@ -1,0 +1,1 @@
+import{at as e}from"./index-DSlRMf4a.js";import{t}from"./StaffStock-Dyj-RLPf.js";var n=e();function r(){return(0,n.jsx)(t,{admin:!0})}export{r as default};
